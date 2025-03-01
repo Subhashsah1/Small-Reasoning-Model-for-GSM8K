@@ -54,10 +54,6 @@ Our trained models show significant improvements in:
 - Answer accuracy on mathematical word problems
 - Format consistency across varying problem complexity
 
-## 🙏 Acknowledgements
-
-We directly leverage [@willccbb](https://gist.github.com/willccbb/4676755236bb08cab5f4e54a0475d6fb) for data prep and all reward functions. You are free to create your own!
-
 ## 🔮 Future Directions
 
 Check out the [GitHub repository](https://github.com/willccbb/verifiers) for ongoing developments and new breakthroughs in small model reasoning capabilities.
